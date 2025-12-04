@@ -1,16 +1,88 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Georgie (Asaf Zenou) 👋</h1>
 
-<!--
-**asafzenou/asafzenou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=asafzenou&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🎓 B.Sc Software & Information Systems Engineering @ BGU  
+- 💼 Backend & Data Engineer @ Intel  
+- 🔒 Interested in Security Research & Penetration Testing  
+- 🧠 Currently working on: ETL pipelines, ML models, and security tooling  
+- 🌍 Love travelling (Japan 🇯🇵, Thailand 🇹🇭, Montenegro 🇲🇪...)  
+- 💃 Dance instructor & community facilitator  
+- 🤖 Building smart systems like: **Smart Spoon (FoodMood)**, **Phishing Detector Chrome Extension**, **13F Portfolio Graph Analyzer**, and more  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,bash,sql" />
+</p>
+
+**Frameworks & Tools:**  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,vue,react,docker,kubernetes,git,linux,mysql,postgres,sqlite,pytorch,tensorflow" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=asafzenou&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asafzenou&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=asafzenou&theme=tokyonight&margin-w=10&no-bg=true" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 Smart Spoon – FoodMood (Emotion-Based Eating Assistant)
+AI + Sensors project adjusting spoon temperature/texture based on emotional state.
+
+### 🔹 Chrome Extension – Phishing URL Detector  
+Feature-based ML model + live URL analysis.
+
+### 🔹 13F Portfolio Graph Generator  
+ETL + Graph DB model of institutional investors.
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/asaf-zenou/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:asafzenou@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+</p>
+
+---
+
+## ✨ Fun Facts  
+- 🔥 Builds both backend systems *and* teaches dance  
+- 🐶 Loves Border Collies  
+- 🧩 Huge fan of learning things deeply and fast  
+- 🎧 Codes better with music  
+
+---
+
+<p align="center">
+  ⭐ If you like my work, feel free to star my repositories!
+</p>

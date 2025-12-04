@@ -31,22 +31,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=asafzenou&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asafzenou&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asafzenou&theme=tokyonight&margin-w=10&no-bg=true" />
-</p>
-
----
 
 ## 📂 Featured Projects
 

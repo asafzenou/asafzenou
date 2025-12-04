@@ -67,19 +67,6 @@ A personalized recipe management system built as part of the BGU full-stack cour
 
 ---
 
-## 🔧 Additional Projects
-
-### • **HR & Transport Management System (Java)**  
-Backend system for HR shift/transport operations.
-
-### • **13F Institutional Portfolio Analyzer**  
-ETL → normalize → graph DB → portfolio network insights.
-
-### • **FoodMood – Smart Spoon System**  
-Sensor-based emotional recognition + mobile companion app.
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -96,7 +83,6 @@ Sensor-based emotional recognition + mobile companion app.
 
 ## ✨ Fun Facts  
 - 🐶 Border Collies = happiness  
-- 💃 Teach dance + facilitate groups  
 - 🎧 Productive only with music  
 - 🤖 Love building smart, automated systems  
 

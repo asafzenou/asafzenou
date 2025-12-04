@@ -40,9 +40,9 @@ I enjoy combining data, backend logic, and ML models to solve real problems.
 ### 🔹 **Phishing URL Detector – ML Backend**  
 **Repo:** https://github.com/asafzenou/Phishing-URL-Prediction-BackEnd  
 
-A full backend system for detecting phishing URLs using machine-learning-based feature extraction and classification.
+A Chrome extesntion system for detecting phishing URLs using machine-learning-based feature extraction and classification.
 
-**Tech:** Python, FastAPI, ML models, URL feature engineering  
+**Tech:** Python, ML models, URL feature engineering  
 **Highlights:**  
 - Extracts structural + hidden URL features in real time  
 - Provides classification API for browser extension  
@@ -55,7 +55,7 @@ A full backend system for detecting phishing URLs using machine-learning-based f
 
 A personalized recipe management system built as part of the BGU full-stack course.
 
-**Tech:** Node.js, Express.js, Vue.js, MySQL  
+**Tech:** Node.js, Express.js, MySQL  
 **Features:**  
 - Personal recipe collections  
 - Family recipe storage  

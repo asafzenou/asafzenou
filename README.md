@@ -18,7 +18,6 @@ I enjoy combining data, backend logic, and ML models to solve real problems.
 - 💼 **Software Engineer @ Intel** (Backend + Data Engineering)  
 - 🎓 B.Sc Software & Information Systems Engineering @ Ben-Gurion University  
 - ⚙️ Experienced with distributed systems, backend architecture & ML pipelines  
-- 🌍 Love traveling (Japan 🇯🇵, Thailand 🇹🇭, Montenegro 🇲🇪)  
 
 ---
 

@@ -71,10 +71,7 @@ A personalized recipe management system built as part of the BGU full-stack cour
   <a href="https://www.linkedin.com/in/asaf-zenou-8362621a4/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:asafzenou@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
-  </a>
+
 </p>
 
 ---

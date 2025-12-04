@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Software Engineer @ Intel • Backend & Data Engineering • Security Research Enthusiast</b>
+  <b>Software Engineer @ Intel • Backend & Data Engineering </b>
 </p>
 
 ---
@@ -17,7 +17,6 @@ I enjoy combining data, backend logic, and ML models to solve real problems.
 
 - 💼 **Software Engineer @ Intel** (Backend + Data Engineering)  
 - 🎓 B.Sc Software & Information Systems Engineering @ Ben-Gurion University  
-- 🔐 Exploring **Security Research**, Pen-Testing & Threat Intelligence  
 - ⚙️ Experienced with distributed systems, backend architecture & ML pipelines  
 - 🌍 Love traveling (Japan 🇯🇵, Thailand 🇹🇭, Montenegro 🇲🇪)  
 - 💃 Dance instructor & group facilitator  

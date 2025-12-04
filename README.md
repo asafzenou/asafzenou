@@ -50,14 +50,11 @@
 
 ## 📂 Featured Projects
 
-### 🔹 Smart Spoon – FoodMood (Emotion-Based Eating Assistant)
-AI + Sensors project adjusting spoon temperature/texture based on emotional state.
+
 
 ### 🔹 Chrome Extension – Phishing URL Detector  
 Feature-based ML model + live URL analysis.
 
-### 🔹 13F Portfolio Graph Generator  
-ETL + Graph DB model of institutional investors.
 
 ---
 
@@ -68,7 +65,6 @@ ETL + Graph DB model of institutional investors.
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:asafzenou@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 </p>

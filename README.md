@@ -26,12 +26,12 @@ I enjoy combining data, backend logic, and ML models to solve real problems.
 
 ### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,bash,sql" />
+  <img src="https://skillicons.dev/icons?i=python,java,bash,sql" />
 </p>
 
 ### **Frameworks & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,vue,react,docker,kubernetes,linux,git,mysql,postgres,sqlite,pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,docker,kubernetes,linux,git,mysql,postgres,sqlite" />
 </p>
 
 ---

@@ -30,7 +30,7 @@ I enjoy combining data, backend logic, and ML models to solve real problems.
 
 ### **Frameworks & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,docker,kubernetes,linux,git,mysql,postgres,sqlite" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,docker,kubernetes,linux,git,mysql,postgres,sqlite, dotnet" />
 </p>
 
 ---

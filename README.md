@@ -25,7 +25,7 @@ I enjoy combining data, backend logic, and ML models to solve real problems.
 
 ### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,bash,sql" />
+  <img src="https://skillicons.dev/icons?i=python,cs,java,bash,sql" />
 </p>
 
 ### **Frameworks & Tools**
